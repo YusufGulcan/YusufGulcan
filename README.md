@@ -6,7 +6,7 @@ I'm a results-driven data scientist with 2 years of experience in developing com
 ##### Skills:
 🐍 Python
 
-🧠 Machine Learning
+🤖 Machine Learning
 
 🗄️ SQL
 
